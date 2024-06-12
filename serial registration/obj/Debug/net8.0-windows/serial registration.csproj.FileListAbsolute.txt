@@ -1,0 +1,40 @@
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.exe
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.deps.json
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.runtimeconfig.json
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.dll
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.pdb
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial_registration.Serialdb.resources
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.GenerateResource.cache
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.AssemblyInfoInputs.cache
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.AssemblyInfo.cs
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.CoreCompileInputs.cache
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.dll
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\refint\serial registration.dll
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.pdb
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.genruntimeconfig.cache
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\ref\serial registration.dll
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\dnlib.dll
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.AssemblyReference.cache
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.CopyComplete
+C:\Users\Garzon\source\repos\Chiwiro\serial registration\bin\Debug\net8.0-windows\ICSharpCode.Decompiler.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.exe
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.deps.json
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.runtimeconfig.json
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\serial registration.pdb
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\dnlib.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\bin\Debug\net8.0-windows\ICSharpCode.Decompiler.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial_registration.Serialdb.resources
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial r.74C721A8.Up2Date
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\refint\serial registration.dll
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.pdb
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\serial registration.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Escritorio\Aplicativo\Ofuscador\Chiwiro\serial registration\obj\Debug\net8.0-windows\ref\serial registration.dll

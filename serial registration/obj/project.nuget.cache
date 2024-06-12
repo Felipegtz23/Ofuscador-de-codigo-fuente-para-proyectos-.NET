@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C80cCyRsF6sdoyYdoeiJl4lKgykLErEiTHxkLYrWlXUYSdI3k03aPKJ6AZ7pMyC2OkDB1f9uKuQBHXvtyxCFcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Escritorio\\Aplicativo\\Ofuscador\\Chiwiro\\serial registration\\serial registration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\dnlib\\4.4.0\\dnlib.4.4.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\icsharpcode.decompiler\\9.0.0.7618-preview1\\icsharpcode.decompiler.9.0.0.7618-preview1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
